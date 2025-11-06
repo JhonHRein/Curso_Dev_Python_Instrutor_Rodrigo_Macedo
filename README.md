@@ -1,5 +1,6 @@
-# Curso Dev 2025 Full Python zero ao avançado Udemy
-Curso Python Desenvolvedor 2025 - Do zero ao Avançado + Projetos 
+# Curso Dev 2025 Full Python Zero ao Avançado Udemy
+## Nesse repositório publicarei passo a passo do meu desenvolvimento durante o curso!
+### Início 06/11/2025
 
 Projetos Práticos com Python: Flask, FastAPI, Django, Streamlit e Flet, Django Rest Framework, LLMs - Inicio 11/25 
 
