@@ -1,8 +1,8 @@
 
 📘 Curso Dev 2025 – Full Python (Zero ao Avançado)
 ## Rodrigo Macedo
-Instrutor GenAI | Especialista LLM | Developer
-
+## Instrutor GenAI | Especialista LLM | Developer
+------------------------------------------------------------------
 Este repositório contém todo o meu desenvolvimento e anotações durante o curso Full Python Zero ao Avançado – Udemy.
 
 📅 Início: 06/11/2025
