@@ -5,8 +5,8 @@
 ------------------------------------------------------------------
 ### Este repositório contém todo o meu desenvolvimento e anotações durante o curso Full Python Zero ao Avançado – Udemy.
 
-📅 Início: 06/11/2025
-📅 Projetos Práticos (Flask, FastAPI, Django, Streamlit, Flet, DRF, LLMs): início em 25/11
+📅 Início: 11/2025
+📅 Projetos Práticos (Flask, FastAPI, Django, Streamlit, Flet, DRF, LLMs):
 
 ✅ Conteúdos estudados
 Fundamentos do Python
