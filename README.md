@@ -3,7 +3,7 @@
 ## Instrutor Rodrigo Macedo - GenAI | Especialista LLM | Developer
 
 ------------------------------------------------------------------
-Este repositório contém todo o meu desenvolvimento e anotações durante o curso Full Python Zero ao Avançado – Udemy.
+### Este repositório contém todo o meu desenvolvimento e anotações durante o curso Full Python Zero ao Avançado – Udemy.
 
 📅 Início: 06/11/2025
 📅 Projetos Práticos (Flask, FastAPI, Django, Streamlit, Flet, DRF, LLMs): início em 25/11
