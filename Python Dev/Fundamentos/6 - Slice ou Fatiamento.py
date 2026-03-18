@@ -1,4 +1,12 @@
 movieName = "Top Gun"
+
+"""
+Slice/Fatiamento: técnica em Python para acessar
+partes de uma sequência (string, lista, tupla),
+utilizando colchetes [] com índices e intervalos.
+"""
+
+
 # string[valor de inicio:valor de fim] - indice começa na posição 0 / indice final  -1. 
 # Obs: No python os espaços vazios dentro de uma string, também conta como indice.
 # O espaço entre a palavra "top e o gun" também soma indice.
