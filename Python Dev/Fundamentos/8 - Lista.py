@@ -1,4 +1,9 @@
-#Todas as listas abre e fecha colchetes
+"""
+Lista: estrutura de dados mutável em Python,
+que armazena múltiplos valores em ordem fixa,
+sendo representada por colchetes [].
+"""
+
 #Os valores são passados como itens dentro da lista, nada mais que mapear os itens das variaveis.
 
 filmMatrix = ["Matrix", 1999, 8.7, True]
