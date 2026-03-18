@@ -1,5 +1,11 @@
 #Python Flix
 
+"""
+Tipos de dados: categorias que definem o tipo
+de valor em Python, como int, float, str, bool,
+list, tuple e dict.
+"""
+
 name = "Top Gun Maverick"
 year_launch = 2023 
 noteMovie = 9.5 
