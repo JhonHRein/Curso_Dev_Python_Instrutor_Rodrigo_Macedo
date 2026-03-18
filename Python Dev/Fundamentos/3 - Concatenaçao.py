@@ -1,4 +1,10 @@
 #concatenação de  valores
+
+"""
+Concatenação: operação em Python que une
+duas ou mais sequências, como strings ou listas,
+usando o operador +.
+"""
 """
 CONCATENAÇÃO COM F-STRINGS (Python 3.6+)
 
