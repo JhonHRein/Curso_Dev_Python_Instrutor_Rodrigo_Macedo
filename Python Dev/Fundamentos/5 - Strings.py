@@ -1,5 +1,11 @@
 # Python é Case sensitive:  dois valores iguais, porem um com letras maiúscula e outra minúscula existe diferença.
 
+"""
+String: sequência de caracteres em Python,
+utilizada para representar texto,
+sendo delimitada por aspas '' ou "".
+"""
+
 movieName = "Top Gun Maverick"
 movieName2 = "top gun"
 print(movieName == movieName2)  # resposta FALSE, CASE SENSITIVE 
