@@ -1,6 +1,13 @@
 #Utilizano o INPUT
 #Comando e entreda INPUT
 
+"""
+Input: função em Python que captura dados
+digitados pelo usuário no console,
+sendo representada por input().
+"""
+
+
 name = input("Digite o nome do filme:\n ")     # o \n é o comando de quebra de linha.
 year_Launch = input("Digite o ano de lançamento do filme:\n")
 noteMovie = input("Digite a nota do filme:\n")
