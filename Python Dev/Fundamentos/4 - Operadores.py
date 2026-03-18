@@ -1,3 +1,11 @@
+"""
+Operadores: símbolos usados em Python para
+realizar operações matemáticas, lógicas ou
+de comparação, como +, -, *, /, ==, and, or.
+"""
+
+
+
 num1 = int(input("Digite o primeiro numero:\n"))
 num2 = int(input("Digite o segundo numero:\n"))
 
